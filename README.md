@@ -10,6 +10,6 @@ Oyunda kullandığım objeler Blender eğitimine yeni başladığımdan dolayı 
 
 * [**Free3d**](https://free3d.com/) - Ücretsiz 3D Objeler için
 
-## Game Play
+## Oynanış Videosu
 
 [![Youtube / Oynanış Videosu](https://i.resimyukle.xyz/A9AdfL.png)](http://www.youtube.com/watch?v=2BXbOsTvYOs)
