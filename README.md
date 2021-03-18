@@ -1,6 +1,16 @@
 # Başlarken
 Unity dünyasına yeni giriş yaptım ve bu oyun bildiklerimi kullandığım ve görsel anlamda beğendiğim ilk deneme oyunum diyebilirim. 
 
+### Deneyimlediğim Yapılar;
+* Temel Hareket Kontrolleri (Rigidboy AddForce & position.Translate & position.Rotate & Vector3)
+* Klavye Kontrolleri (Input.GetKey)
+* TimeScale
+* OnCollision & OnTrigger
+* Instantiate & Destroy
+* Prefabs
+* Invoke & InvokeRepeating
+* Sahne Yenileme (LoadScene)
+
 Oyunda kullandığım objeler Blender eğitimine yeni başladığımdan dolayı dışardan ücretsiz olarak alıp kullanmış olduğum objelerdir. 
 
 ## Kaynaklar
